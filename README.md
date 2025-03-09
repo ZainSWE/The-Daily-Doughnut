@@ -1,6 +1,6 @@
 # The-Daily-Doughnut
 
-Web Design Project for CIS*1050.
+A2 Web Design Project for CIS*1050.
 
 Change log:
 <br>→ Refined previous layout and color scheme
