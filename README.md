@@ -3,7 +3,7 @@
 Web Design Project for CIS*1050.
 
 Change log:
-#→ Refined previous layout and color scheme
-#→ Added functionality for 'Top Pick' navbar button
-#→ Removed unnecessary webkit engine support
-#→ Polished general layout (centered articles/navbar)
+<br>→ Refined previous layout and color scheme
+<br>→ Added functionality for 'Top Pick' navbar button
+<br>→ Removed unnecessary webkit engine support
+<br>→ Polished general layout (centered articles/navbar)
