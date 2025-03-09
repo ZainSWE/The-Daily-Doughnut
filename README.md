@@ -7,3 +7,4 @@ Change log:
 <br>→ Added functionality for 'Top Pick' navbar button
 <br>→ Removed unnecessary webkit engine support
 <br>→ Polished general layout (centered articles/navbar)
+<br>→ Added support for dynamic scaling site
